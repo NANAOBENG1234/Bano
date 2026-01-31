@@ -1,0 +1,18 @@
+
+campus-navigation-system/
+│
+├── README.md
+├── .gitignore
+│
+├── frontend/
+│ ├── index.html
+│ ├── css/
+│ │ └── styles.css
+│ └── js/
+│ └── map.js
+│
+├── backend/
+│ └── server.js
+│
+└── docs/
+└── idea.md
